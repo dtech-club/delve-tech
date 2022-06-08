@@ -1,2 +1,2 @@
-# delve-tech
+# dtech
 Freelance Web Design
